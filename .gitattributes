@@ -2,5 +2,4 @@
 *.md text eol=lf
 *.json text eol=lf
 *.py text eol=lf
-data/leaderboards/*.json -text
-
+data/leaderboards/*.json -text whitespace=trailing-space,space-before-tab,cr-at-eol
