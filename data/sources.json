@@ -1,0 +1,92 @@
+[
+  {
+    "id": "concat-p06",
+    "workspace_relative_path": "Concat/README.md",
+    "sha256": "bc39882bd564885d921565947847b34e46b4d994fb2490de7860f5f61c329de9",
+    "bytes": 4368,
+    "reviewed_at": "2026-09-26",
+    "description": "P06 历史官方五例与 ZIP 身份；旧状态有后续修订。",
+    "availability": "original_retained_in_development_workspace"
+  },
+  {
+    "id": "concat-mte",
+    "workspace_relative_path": "Concat/mte_20260914/STATUS.md",
+    "sha256": "0df15cfc8a111c2c08c5ce8fb497d585098c0ab6265efb511afe419db7fe71d5",
+    "bytes": 7988,
+    "reviewed_at": "2026-09-26",
+    "description": "P06/P07 同场 ABBA，以及 P07 边界检查失败。",
+    "availability": "original_retained_in_development_workspace"
+  },
+  {
+    "id": "concat-p07-source",
+    "workspace_relative_path": "Concat/mte_20260914/evidence/P07_307_original/source_manifest.json",
+    "sha256": "2d2cbcca15ad49df818ee7bbcbb0435ede9aa83c230f2bafc0371841018c9e09",
+    "bytes": 4828,
+    "reviewed_at": "2026-09-26",
+    "description": "P07 四种结构与五个打包源码文件的身份。",
+    "availability": "original_retained_in_development_workspace"
+  },
+  {
+    "id": "concat-p07-result",
+    "workspace_relative_path": "Concat/mte_20260914/evidence/P07_307_original/focused/result.json",
+    "sha256": "2d1b867a87facd49a2b73fdeca25e57825c22f07866b5e3950d82301a9be68e6",
+    "bytes": 5222,
+    "reviewed_at": "2026-09-26",
+    "description": "P07 同包完整五例 307.1855 us；本地设备实验。",
+    "availability": "original_retained_in_development_workspace"
+  },
+  {
+    "id": "indexadd-p151",
+    "workspace_relative_path": "IndexAdd/PERFORMANCE_P151.md",
+    "sha256": "64453d4e4952d3c8e37e0d6887b93c9e40f1bafd53e4066267d8bcf1b4a30445",
+    "bytes": 2532,
+    "reviewed_at": "2026-09-26",
+    "description": "P135/P151 同场四批完整计时及发布验证范围。",
+    "availability": "original_retained_in_development_workspace"
+  },
+  {
+    "id": "transpose-final",
+    "workspace_relative_path": "Transpose/HANDOFF_FINAL_20260913_CODEXGYQ.md",
+    "sha256": "0cc15197011793d6caf1dd9cba13e28bd3c8def23e7b27a0bce084ff2282623b",
+    "bytes": 4689,
+    "reviewed_at": "2026-09-26",
+    "description": "P71/P66 收尾状态、结构差异及验证范围。",
+    "availability": "original_retained_in_development_workspace"
+  },
+  {
+    "id": "transpose-p66",
+    "workspace_relative_path": "Transpose/analysis/P66_results_summary.json",
+    "sha256": "e895bdc62751767a5973973c38da1161ae64321a48b1e045e7f96d98781b6a98",
+    "bytes": 4318,
+    "reviewed_at": "2026-09-26",
+    "description": "P66 完整五例结构化摘要。",
+    "availability": "original_retained_in_development_workspace"
+  },
+  {
+    "id": "transpose-p71",
+    "workspace_relative_path": "Transpose/analysis/P71_results_summary.json",
+    "sha256": "d41a2c816a3f0ea28edf89965b63e031537b1e20f832633ced37aee3648febf7",
+    "bytes": 4350,
+    "reviewed_at": "2026-09-26",
+    "description": "P71 完整五例结构化摘要。",
+    "availability": "original_retained_in_development_workspace"
+  },
+  {
+    "id": "greater-status",
+    "workspace_relative_path": "Greater/analysis/session-status.md",
+    "sha256": "f862ec0ae52573983f25efc2c1e1bb2754de76920de5c62917f796fe60c442b4",
+    "bytes": 19182,
+    "reviewed_at": "2026-09-26",
+    "description": "P33/P46 完整历史结果及各候选状态。",
+    "availability": "original_retained_in_development_workspace"
+  },
+  {
+    "id": "greater-p46-source",
+    "workspace_relative_path": "Greater/candidates/P46_C3_RAW_BROADCAST/op_kernel/greater_repeat.h",
+    "sha256": "17b3a0850eef03720b777a955fd2c3d55fd9130c4c9ed8599d4ad9618facc288",
+    "bytes": 17000,
+    "reviewed_at": "2026-09-26",
+    "description": "P46 先进行 16 位原始数据广播、再转换的源码依据。",
+    "availability": "original_retained_in_development_workspace"
+  }
+]

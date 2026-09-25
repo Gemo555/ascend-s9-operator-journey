@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.local/
+.env
+.env.*
+*.pem
+*.key
+*.run
+*.zip
+*.tar.gz
+

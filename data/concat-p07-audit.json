@@ -1,0 +1,45 @@
+{
+  "checked_at": "2026-09-26",
+  "package_id": "concat-p07",
+  "zip_sha256": "81d7f26137aa97787e5d4e8a46de46d565d127802979b34caa1042d241f00164",
+  "method": "Read ZIP as data; compare source/build members and installer bytes with frozen local archive. No installer or device execution.",
+  "frozen_source_id": "concat-p07-source",
+  "source_and_build_files": [
+    {
+      "member": "Concat_zip/op_host/CMakeLists.txt",
+      "sha256": "d1b100115b8c34135ccdfc54f91597847a7823ec76cdca995e2b80f5c6092cd2",
+      "matches_frozen_file": true
+    },
+    {
+      "member": "Concat_zip/op_host/concat.cpp",
+      "sha256": "5c0927401ec66cbf8083f96d01aa23ca7f7c9b943c80f7afc0c6c0fd4e6ce856",
+      "matches_frozen_file": true
+    },
+    {
+      "member": "Concat_zip/op_host/concat_tiling.h",
+      "sha256": "89f2e520257fbdb4fd08b6fd4b09487ee2952aed43adbd1ca489eac0d044d772",
+      "matches_frozen_file": true
+    },
+    {
+      "member": "Concat_zip/op_kernel/CMakeLists.txt",
+      "sha256": "4e51b440e610d13fe47c8afa215e3e948687ad5e2ae3e6464c81800a428ba9a9",
+      "matches_frozen_file": true
+    },
+    {
+      "member": "Concat_zip/op_kernel/concat.cpp",
+      "sha256": "ca9cadc701365d678f76b79235b7d1ed754b5686ffe42a4f3d9c1322ce33ca73",
+      "matches_frozen_file": true
+    }
+  ],
+  "installer": {
+    "member": "Concat_zip/custom_opp_euleros_aarch64.run",
+    "sha256": "18fcd0751e8da6ce6ea3b5b600579c237352b42aab09f7eed157db2755ef5513",
+    "matches_frozen_file": true
+  },
+  "performance_source_id": "concat-p07-result",
+  "recorded_total_us": "307.1855",
+  "known_limitations": [
+    "No official result for this candidate has been supplied.",
+    "A later P07 boundary regression failed; cause remains unresolved."
+  ]
+}

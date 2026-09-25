@@ -1,0 +1,802 @@
+{
+  "contest": "昇腾AI创新大赛-算子挑战赛（S9赛季）",
+  "source": "https://www.hiascend.com/developer/contests/details/41ffbad2024e4ccfa43520c57ffa7b9e?module=rank",
+  "sourceType": "官方当前性能榜",
+  "startedAt": "2026-09-15T13:17:49+08:00",
+  "updatedAt": "2026-09-15T13:17:56+08:00",
+  "intervalMinutes": 30,
+  "submitDeadline": "2026/09/15 12:00",
+  "registeredTeams": 902,
+  "totalAwardedPoints": 2750,
+  "topics": [
+    {
+      "name": "Concat",
+      "totalEntries": 272,
+      "retrievedAt": "2026-09-15T13:17:54+08:00",
+      "leaders": [
+        {
+          "team": "ld",
+          "rank": 1,
+          "points": 100,
+          "takeTime": 41.43,
+          "lastCommit": "2026/09/15 10:38:42"
+        },
+        {
+          "team": "aaa算法批发",
+          "rank": 2,
+          "points": 90,
+          "takeTime": 182.03,
+          "lastCommit": "2026/09/15 10:24:30"
+        },
+        {
+          "team": "nju",
+          "rank": 3,
+          "points": 80,
+          "takeTime": 189.5725,
+          "lastCommit": "2026/09/15 09:59:32"
+        },
+        {
+          "team": "Again",
+          "rank": 4,
+          "points": 70,
+          "takeTime": 206.6745,
+          "lastCommit": "2026/08/03 18:27:23"
+        },
+        {
+          "team": "VibeThinking",
+          "rank": 5,
+          "points": 60,
+          "takeTime": 291.3475,
+          "lastCommit": "2026/09/15 10:41:30"
+        },
+        {
+          "team": "你跑不过我你信不信",
+          "rank": 6,
+          "points": 50,
+          "takeTime": 297.505,
+          "lastCommit": "2026/09/15 01:23:45"
+        },
+        {
+          "team": "光明实验室-心跳砰砰砰",
+          "rank": 7,
+          "points": 40,
+          "takeTime": 298.975999,
+          "lastCommit": "2026/09/14 09:51:42"
+        },
+        {
+          "team": "锄大地",
+          "rank": 8,
+          "points": 30,
+          "takeTime": 300.35,
+          "lastCommit": "2026/09/14 23:01:57"
+        },
+        {
+          "team": "uuku",
+          "rank": 9,
+          "points": 20,
+          "takeTime": 306.9755,
+          "lastCommit": "2026/09/14 19:57:32"
+        },
+        {
+          "team": "本质嘉豪",
+          "rank": 10,
+          "points": 10,
+          "takeTime": 307.27,
+          "lastCommit": "2026/09/15 01:16:02"
+        }
+      ]
+    },
+    {
+      "name": "Greater",
+      "totalEntries": 274,
+      "retrievedAt": "2026-09-15T13:17:54+08:00",
+      "leaders": [
+        {
+          "team": "nju",
+          "rank": 1,
+          "points": 100,
+          "takeTime": 430.799,
+          "lastCommit": "2026/09/14 23:25:52"
+        },
+        {
+          "team": "ventus",
+          "rank": 2,
+          "points": 90,
+          "takeTime": 446.399,
+          "lastCommit": "2026/09/15 10:26:14"
+        },
+        {
+          "team": "锄大地",
+          "rank": 3,
+          "points": 80,
+          "takeTime": 467.419,
+          "lastCommit": "2026/09/12 22:58:34"
+        },
+        {
+          "team": "VibeThinking",
+          "rank": 4,
+          "points": 70,
+          "takeTime": 478.1915,
+          "lastCommit": "2026/09/15 08:10:40"
+        },
+        {
+          "team": "emmm",
+          "rank": 5,
+          "points": 60,
+          "takeTime": 479.34,
+          "lastCommit": "2026/09/14 03:48:44"
+        },
+        {
+          "team": "光明实验室-心跳砰砰砰",
+          "rank": 6,
+          "points": 50,
+          "takeTime": 480.469999,
+          "lastCommit": "2026/09/06 08:46:59"
+        },
+        {
+          "team": "本质嘉豪",
+          "rank": 7,
+          "points": 40,
+          "takeTime": 482.57,
+          "lastCommit": "2026/09/14 00:39:15"
+        },
+        {
+          "team": "榴莲大王",
+          "rank": 8,
+          "points": 30,
+          "takeTime": 489.511,
+          "lastCommit": "2026/09/15 00:22:13"
+        },
+        {
+          "team": "天津火葬场",
+          "rank": 9,
+          "points": 20,
+          "takeTime": 491.44,
+          "lastCommit": "2026/09/11 16:17:52"
+        },
+        {
+          "team": "宇宙不怎么闪烁",
+          "rank": 10,
+          "points": 10,
+          "takeTime": 494.53,
+          "lastCommit": "2026/09/15 11:25:30"
+        }
+      ]
+    },
+    {
+      "name": "IndexAdd",
+      "totalEntries": 182,
+      "retrievedAt": "2026-09-15T13:17:54+08:00",
+      "leaders": [
+        {
+          "team": "天津火葬场",
+          "rank": 1,
+          "points": 100,
+          "takeTime": 74.96,
+          "lastCommit": "2026/09/15 08:37:09"
+        },
+        {
+          "team": "Again",
+          "rank": 2,
+          "points": 90,
+          "takeTime": 351.606999,
+          "lastCommit": "2026/08/03 22:23:32"
+        },
+        {
+          "team": "VibeThinking",
+          "rank": 3,
+          "points": 80,
+          "takeTime": 563.851,
+          "lastCommit": "2026/09/15 09:51:00"
+        },
+        {
+          "team": "光明实验室-心跳砰砰砰",
+          "rank": 4,
+          "points": 70,
+          "takeTime": 578.991,
+          "lastCommit": "2026/09/14 09:06:14"
+        },
+        {
+          "team": "澳白加糖不加烫",
+          "rank": 5,
+          "points": 60,
+          "takeTime": 581.72,
+          "lastCommit": "2026/09/14 22:07:05"
+        },
+        {
+          "team": "你跑不过我你信不信",
+          "rank": 6,
+          "points": 50,
+          "takeTime": 582.01,
+          "lastCommit": "2026/09/15 11:13:46"
+        },
+        {
+          "team": "锄大地",
+          "rank": 7,
+          "points": 40,
+          "takeTime": 591.516,
+          "lastCommit": "2026/09/15 01:33:23"
+        },
+        {
+          "team": "榴莲大王",
+          "rank": 8,
+          "points": 30,
+          "takeTime": 598.6655,
+          "lastCommit": "2026/09/15 02:02:44"
+        },
+        {
+          "team": "柏斯特油油",
+          "rank": 9,
+          "points": 20,
+          "takeTime": 621.105,
+          "lastCommit": "2026/09/15 11:51:41"
+        },
+        {
+          "team": "本质嘉豪",
+          "rank": 10,
+          "points": 10,
+          "takeTime": 631.569999,
+          "lastCommit": "2026/09/15 00:20:24"
+        }
+      ]
+    },
+    {
+      "name": "Transpose",
+      "totalEntries": 174,
+      "retrievedAt": "2026-09-15T13:17:56+08:00",
+      "leaders": [
+        {
+          "team": "VibeThinking",
+          "rank": 1,
+          "points": 100,
+          "takeTime": 748.465,
+          "lastCommit": "2026/09/15 11:13:29"
+        },
+        {
+          "team": "澳白加糖不加烫",
+          "rank": 2,
+          "points": 90,
+          "takeTime": 750.86,
+          "lastCommit": "2026/09/09 12:33:02"
+        },
+        {
+          "team": "TITR",
+          "rank": 3,
+          "points": 80,
+          "takeTime": 806.879999,
+          "lastCommit": "2026/09/10 13:13:49"
+        },
+        {
+          "team": "光明实验室-心跳砰砰砰",
+          "rank": 4,
+          "points": 70,
+          "takeTime": 846.1265,
+          "lastCommit": "2026/09/14 07:52:52"
+        },
+        {
+          "team": "榴莲大王",
+          "rank": 5,
+          "points": 60,
+          "takeTime": 903.434,
+          "lastCommit": "2026/09/15 11:04:36"
+        },
+        {
+          "team": "本质嘉豪",
+          "rank": 6,
+          "points": 50,
+          "takeTime": 903.47,
+          "lastCommit": "2026/09/13 13:44:23"
+        },
+        {
+          "team": "nju",
+          "rank": 7,
+          "points": 40,
+          "takeTime": 905.1585,
+          "lastCommit": "2026/09/14 10:46:02"
+        },
+        {
+          "team": "光明实验室-残机",
+          "rank": 8,
+          "points": 30,
+          "takeTime": 958.7895,
+          "lastCommit": "2026/09/12 21:40:38"
+        },
+        {
+          "team": "你跑不过我你信不信",
+          "rank": 9,
+          "points": 20,
+          "takeTime": 959.4785,
+          "lastCommit": "2026/09/14 23:40:12"
+        },
+        {
+          "team": "ventus",
+          "rank": 10,
+          "points": 10,
+          "takeTime": 970.74,
+          "lastCommit": "2026/09/15 03:11:44"
+        }
+      ]
+    },
+    {
+      "name": "SquareSumV1",
+      "totalEntries": 230,
+      "retrievedAt": "2026-09-15T13:17:56+08:00",
+      "leaders": [
+        {
+          "team": "VibeThinking",
+          "rank": 1,
+          "points": 100,
+          "takeTime": 1384.957,
+          "lastCommit": "2026/09/15 11:34:58"
+        },
+        {
+          "team": "nju",
+          "rank": 2,
+          "points": 90,
+          "takeTime": 1386.668,
+          "lastCommit": "2026/09/15 01:00:54"
+        },
+        {
+          "team": "光明实验室-心跳砰砰砰",
+          "rank": 3,
+          "points": 80,
+          "takeTime": 1392.77,
+          "lastCommit": "2026/09/15 04:26:57"
+        },
+        {
+          "team": "锄大地",
+          "rank": 4,
+          "points": 70,
+          "takeTime": 1393.164,
+          "lastCommit": "2026/09/14 23:57:35"
+        },
+        {
+          "team": "你跑不过我你信不信",
+          "rank": 5,
+          "points": 60,
+          "takeTime": 1394.8475,
+          "lastCommit": "2026/09/15 10:36:40"
+        },
+        {
+          "team": "伊豆的舞女",
+          "rank": 6,
+          "points": 50,
+          "takeTime": 1396.258,
+          "lastCommit": "2026/09/15 10:57:42"
+        },
+        {
+          "team": "本质嘉豪",
+          "rank": 7,
+          "points": 40,
+          "takeTime": 1398.168,
+          "lastCommit": "2026/09/14 23:18:02"
+        },
+        {
+          "team": "uuku",
+          "rank": 8,
+          "points": 30,
+          "takeTime": 1399.578,
+          "lastCommit": "2026/09/13 20:42:37"
+        },
+        {
+          "team": "TITR",
+          "rank": 9,
+          "points": 20,
+          "takeTime": 1400.0385,
+          "lastCommit": "2026/09/12 19:26:25"
+        },
+        {
+          "team": "光明实验室-小雪浅埋",
+          "rank": 10,
+          "points": 10,
+          "takeTime": 1404.598,
+          "lastCommit": "2026/09/12 15:54:41"
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "team": "VibeThinking",
+      "total": 410,
+      "scores": {
+        "Concat": 60,
+        "Greater": 70,
+        "IndexAdd": 80,
+        "Transpose": 100,
+        "SquareSumV1": 100
+      },
+      "ranks": {
+        "Concat": 5,
+        "Greater": 4,
+        "IndexAdd": 3,
+        "Transpose": 1,
+        "SquareSumV1": 1
+      },
+      "rank": 1
+    },
+    {
+      "team": "nju",
+      "total": 310,
+      "scores": {
+        "Concat": 80,
+        "Greater": 100,
+        "IndexAdd": 0,
+        "Transpose": 40,
+        "SquareSumV1": 90
+      },
+      "ranks": {
+        "Concat": 3,
+        "Greater": 1,
+        "IndexAdd": null,
+        "Transpose": 7,
+        "SquareSumV1": 2
+      },
+      "rank": 2
+    },
+    {
+      "team": "光明实验室-心跳砰砰砰",
+      "total": 310,
+      "scores": {
+        "Concat": 40,
+        "Greater": 50,
+        "IndexAdd": 70,
+        "Transpose": 70,
+        "SquareSumV1": 80
+      },
+      "ranks": {
+        "Concat": 7,
+        "Greater": 6,
+        "IndexAdd": 4,
+        "Transpose": 4,
+        "SquareSumV1": 3
+      },
+      "rank": 2
+    },
+    {
+      "team": "锄大地",
+      "total": 220,
+      "scores": {
+        "Concat": 30,
+        "Greater": 80,
+        "IndexAdd": 40,
+        "Transpose": 0,
+        "SquareSumV1": 70
+      },
+      "ranks": {
+        "Concat": 8,
+        "Greater": 3,
+        "IndexAdd": 7,
+        "Transpose": null,
+        "SquareSumV1": 4
+      },
+      "rank": 4
+    },
+    {
+      "team": "你跑不过我你信不信",
+      "total": 180,
+      "scores": {
+        "Concat": 50,
+        "Greater": 0,
+        "IndexAdd": 50,
+        "Transpose": 20,
+        "SquareSumV1": 60
+      },
+      "ranks": {
+        "Concat": 6,
+        "Greater": null,
+        "IndexAdd": 6,
+        "Transpose": 9,
+        "SquareSumV1": 5
+      },
+      "rank": 5
+    },
+    {
+      "team": "Again",
+      "total": 160,
+      "scores": {
+        "Concat": 70,
+        "Greater": 0,
+        "IndexAdd": 90,
+        "Transpose": 0,
+        "SquareSumV1": 0
+      },
+      "ranks": {
+        "Concat": 4,
+        "Greater": null,
+        "IndexAdd": 2,
+        "Transpose": null,
+        "SquareSumV1": null
+      },
+      "rank": 6
+    },
+    {
+      "team": "本质嘉豪",
+      "total": 150,
+      "scores": {
+        "Concat": 10,
+        "Greater": 40,
+        "IndexAdd": 10,
+        "Transpose": 50,
+        "SquareSumV1": 40
+      },
+      "ranks": {
+        "Concat": 10,
+        "Greater": 7,
+        "IndexAdd": 10,
+        "Transpose": 6,
+        "SquareSumV1": 7
+      },
+      "rank": 7
+    },
+    {
+      "team": "澳白加糖不加烫",
+      "total": 150,
+      "scores": {
+        "Concat": 0,
+        "Greater": 0,
+        "IndexAdd": 60,
+        "Transpose": 90,
+        "SquareSumV1": 0
+      },
+      "ranks": {
+        "Concat": null,
+        "Greater": null,
+        "IndexAdd": 5,
+        "Transpose": 2,
+        "SquareSumV1": null
+      },
+      "rank": 7
+    },
+    {
+      "team": "天津火葬场",
+      "total": 120,
+      "scores": {
+        "Concat": 0,
+        "Greater": 20,
+        "IndexAdd": 100,
+        "Transpose": 0,
+        "SquareSumV1": 0
+      },
+      "ranks": {
+        "Concat": null,
+        "Greater": 9,
+        "IndexAdd": 1,
+        "Transpose": null,
+        "SquareSumV1": null
+      },
+      "rank": 9
+    },
+    {
+      "team": "榴莲大王",
+      "total": 120,
+      "scores": {
+        "Concat": 0,
+        "Greater": 30,
+        "IndexAdd": 30,
+        "Transpose": 60,
+        "SquareSumV1": 0
+      },
+      "ranks": {
+        "Concat": null,
+        "Greater": 8,
+        "IndexAdd": 8,
+        "Transpose": 5,
+        "SquareSumV1": null
+      },
+      "rank": 9
+    },
+    {
+      "team": "TITR",
+      "total": 100,
+      "scores": {
+        "Concat": 0,
+        "Greater": 0,
+        "IndexAdd": 0,
+        "Transpose": 80,
+        "SquareSumV1": 20
+      },
+      "ranks": {
+        "Concat": null,
+        "Greater": null,
+        "IndexAdd": null,
+        "Transpose": 3,
+        "SquareSumV1": 9
+      },
+      "rank": 11
+    },
+    {
+      "team": "ld",
+      "total": 100,
+      "scores": {
+        "Concat": 100,
+        "Greater": 0,
+        "IndexAdd": 0,
+        "Transpose": 0,
+        "SquareSumV1": 0
+      },
+      "ranks": {
+        "Concat": 1,
+        "Greater": null,
+        "IndexAdd": null,
+        "Transpose": null,
+        "SquareSumV1": null
+      },
+      "rank": 11
+    },
+    {
+      "team": "ventus",
+      "total": 100,
+      "scores": {
+        "Concat": 0,
+        "Greater": 90,
+        "IndexAdd": 0,
+        "Transpose": 10,
+        "SquareSumV1": 0
+      },
+      "ranks": {
+        "Concat": null,
+        "Greater": 2,
+        "IndexAdd": null,
+        "Transpose": 10,
+        "SquareSumV1": null
+      },
+      "rank": 11
+    },
+    {
+      "team": "aaa算法批发",
+      "total": 90,
+      "scores": {
+        "Concat": 90,
+        "Greater": 0,
+        "IndexAdd": 0,
+        "Transpose": 0,
+        "SquareSumV1": 0
+      },
+      "ranks": {
+        "Concat": 2,
+        "Greater": null,
+        "IndexAdd": null,
+        "Transpose": null,
+        "SquareSumV1": null
+      },
+      "rank": 14
+    },
+    {
+      "team": "emmm",
+      "total": 60,
+      "scores": {
+        "Concat": 0,
+        "Greater": 60,
+        "IndexAdd": 0,
+        "Transpose": 0,
+        "SquareSumV1": 0
+      },
+      "ranks": {
+        "Concat": null,
+        "Greater": 5,
+        "IndexAdd": null,
+        "Transpose": null,
+        "SquareSumV1": null
+      },
+      "rank": 15
+    },
+    {
+      "team": "uuku",
+      "total": 50,
+      "scores": {
+        "Concat": 20,
+        "Greater": 0,
+        "IndexAdd": 0,
+        "Transpose": 0,
+        "SquareSumV1": 30
+      },
+      "ranks": {
+        "Concat": 9,
+        "Greater": null,
+        "IndexAdd": null,
+        "Transpose": null,
+        "SquareSumV1": 8
+      },
+      "rank": 16
+    },
+    {
+      "team": "伊豆的舞女",
+      "total": 50,
+      "scores": {
+        "Concat": 0,
+        "Greater": 0,
+        "IndexAdd": 0,
+        "Transpose": 0,
+        "SquareSumV1": 50
+      },
+      "ranks": {
+        "Concat": null,
+        "Greater": null,
+        "IndexAdd": null,
+        "Transpose": null,
+        "SquareSumV1": 6
+      },
+      "rank": 16
+    },
+    {
+      "team": "光明实验室-残机",
+      "total": 30,
+      "scores": {
+        "Concat": 0,
+        "Greater": 0,
+        "IndexAdd": 0,
+        "Transpose": 30,
+        "SquareSumV1": 0
+      },
+      "ranks": {
+        "Concat": null,
+        "Greater": null,
+        "IndexAdd": null,
+        "Transpose": 8,
+        "SquareSumV1": null
+      },
+      "rank": 18
+    },
+    {
+      "team": "柏斯特油油",
+      "total": 20,
+      "scores": {
+        "Concat": 0,
+        "Greater": 0,
+        "IndexAdd": 20,
+        "Transpose": 0,
+        "SquareSumV1": 0
+      },
+      "ranks": {
+        "Concat": null,
+        "Greater": null,
+        "IndexAdd": 9,
+        "Transpose": null,
+        "SquareSumV1": null
+      },
+      "rank": 19
+    },
+    {
+      "team": "光明实验室-小雪浅埋",
+      "total": 10,
+      "scores": {
+        "Concat": 0,
+        "Greater": 0,
+        "IndexAdd": 0,
+        "Transpose": 0,
+        "SquareSumV1": 10
+      },
+      "ranks": {
+        "Concat": null,
+        "Greater": null,
+        "IndexAdd": null,
+        "Transpose": null,
+        "SquareSumV1": 10
+      },
+      "rank": 20
+    },
+    {
+      "team": "宇宙不怎么闪烁",
+      "total": 10,
+      "scores": {
+        "Concat": 0,
+        "Greater": 10,
+        "IndexAdd": 0,
+        "Transpose": 0,
+        "SquareSumV1": 0
+      },
+      "ranks": {
+        "Concat": null,
+        "Greater": 10,
+        "IndexAdd": null,
+        "Transpose": null,
+        "SquareSumV1": null
+      },
+      "rank": 20
+    }
+  ],
+  "rules": "单题第1至10名依次100、90、80、70、60、50、40、30、20、10分，其余0分；总分相同并列，后续名次跳号；按官方当前完整队名合并，不推测改名前后身份。仅展示获得积分的队伍。",
+  "pointsChanged": true,
+  "performanceChanged": true
+}

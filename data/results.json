@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "status": "leaderboard_snapshot_not_final",
+  "contest": "昇腾AI创新大赛-算子挑战赛（S9赛季）",
+  "team": "本质嘉豪",
+  "snapshot_time": "2026-09-15T13:17:56+08:00",
+  "source_url": "https://www.hiascend.com/developer/contests/details/41ffbad2024e4ccfa43520c57ffa7b9e?module=rank",
+  "source_file": "data/leaderboards/20260915-131756+0800.json",
+  "source_sha256": "1158ee6d6bf4c94b6b4f5c5857789a8a4690386b974ece1d48d8f136344d1040",
+  "total_points": 150,
+  "aggregate_rank": 7,
+  "tied": true,
+  "scored_teams": 21,
+  "registered_teams": 902,
+  "all_topics_top10": true,
+  "topics": [
+    {
+      "name": "Concat",
+      "rank": 10,
+      "points": 10,
+      "time_us": "307.27",
+      "last_commit": "2026/09/15 01:16:02",
+      "total_entries": 272,
+      "final_package_id": null
+    },
+    {
+      "name": "Greater",
+      "rank": 7,
+      "points": 40,
+      "time_us": "482.57",
+      "last_commit": "2026/09/14 00:39:15",
+      "total_entries": 274,
+      "final_package_id": null
+    },
+    {
+      "name": "IndexAdd",
+      "rank": 10,
+      "points": 10,
+      "time_us": "631.569999",
+      "last_commit": "2026/09/15 00:20:24",
+      "total_entries": 182,
+      "final_package_id": null
+    },
+    {
+      "name": "Transpose",
+      "rank": 6,
+      "points": 50,
+      "time_us": "903.47",
+      "last_commit": "2026/09/13 13:44:23",
+      "total_entries": 174,
+      "final_package_id": null
+    },
+    {
+      "name": "SquareSumV1",
+      "rank": 7,
+      "points": 40,
+      "time_us": "1398.168",
+      "last_commit": "2026/09/14 23:18:02",
+      "total_entries": 230,
+      "final_package_id": null
+    }
+  ],
+  "final_result": null
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "path": "articles/ascend-c-optimization-beginner-v2.md",
+    "title": "Ascend C 算子优化入门：数据搬运、分核与 Tiling",
+    "topic": "Concat",
+    "summary": "地址布局、分核、UB 预算与流水",
+    "source_path": "articles/ascend-c-optimization-beginner-v2.md",
+    "source_sha256": "52e4532b7ffe4f8b71f8e51cef1705b2945321a96dd297551dfffdda71bef9b8",
+    "content_sha256": "52e4532b7ffe4f8b71f8e51cef1705b2945321a96dd297551dfffdda71bef9b8",
+    "imported_at": "2026-09-26",
+    "community_publication_url": null
+  },
+  {
+    "path": "articles/ascend-c-optimization-architecture.md",
+    "title": "Ascend C 极限调优：从 IndexAdd 看实现方案的切换",
+    "topic": "IndexAdd",
+    "summary": "有序来源计划、八行转置与结构切换",
+    "source_path": "articles/ascend-c-optimization-architecture.md",
+    "source_sha256": "0cd39112c8889ca2fe6c0d1b7dffcb787c90fd319aacd4532cacaaa565e4320e",
+    "content_sha256": "0cd39112c8889ca2fe6c0d1b7dffcb787c90fd319aacd4532cacaaa565e4320e",
+    "imported_at": "2026-09-26",
+    "community_publication_url": null
+  },
+  {
+    "path": "articles/ascend-c-concat-ub-reuse.md",
+    "title": "Concat 优化实录：UB 复用省下的空间，为什么没有换来稳定提速",
+    "topic": "Concat",
+    "summary": "跨阶段复用与未稳定胜出的性能对照",
+    "source_path": "articles/ascend-c-concat-ub-reuse.md",
+    "source_sha256": "fc0f7a601fdf7bbfe90ce1fd3ef991732189d8c470c25af7dec8dedf63b475e7",
+    "content_sha256": "fc0f7a601fdf7bbfe90ce1fd3ef991732189d8c470c25af7dec8dedf63b475e7",
+    "imported_at": "2026-09-26",
+    "community_publication_url": null
+  },
+  {
+    "path": "articles/ascend-c-transpose-blocked-layout.md",
+    "title": "Ascend C Transpose 调优：用分块临时布局改善短片段写回",
+    "topic": "Transpose",
+    "summary": "分块 workspace、尾部压紧与连续输出",
+    "source_path": "articles/ascend-c-transpose-blocked-layout.md",
+    "source_sha256": "aa365f9fbd576235f85e3cfc0130c21ceb3588c8d74b2def74157e59f99e487a",
+    "content_sha256": "aa365f9fbd576235f85e3cfc0130c21ceb3588c8d74b2def74157e59f99e487a",
+    "imported_at": "2026-09-26",
+    "community_publication_url": null
+  },
+  {
+    "path": "articles/ascend-c-queue-event-lifetime.md",
+    "title": "Ascend C 同步排错：TQueBind 改造后的一次事件编号冲突",
+    "topic": "Concat",
+    "summary": "事件编号占用、查询与同步生命周期",
+    "source_path": "articles/ascend-c-queue-event-lifetime.md",
+    "source_sha256": "441b7a181005e053a91446ab1c3624ce3d483c880fa10c6072907155ff585952",
+    "content_sha256": "441b7a181005e053a91446ab1c3624ce3d483c880fa10c6072907155ff585952",
+    "imported_at": "2026-09-26",
+    "community_publication_url": null
+  },
+  {
+    "path": "articles/ascend-c-indexadd-bf16-rounding.md",
+    "title": "Ascend C IndexAdd 调优：减少 Cast 之前，先确认 BF16 的舍入位置",
+    "topic": "IndexAdd",
+    "summary": "逐次舍入、连续源行搬运与短 Gather",
+    "source_path": "articles/ascend-c-indexadd-bf16-rounding.md",
+    "source_sha256": "268f7ca2eb43807b61bbdb8dc1414bf1464e86a59ab54257759a8c2924b7d9bd",
+    "content_sha256": "268f7ca2eb43807b61bbdb8dc1414bf1464e86a59ab54257759a8c2924b7d9bd",
+    "imported_at": "2026-09-26",
+    "community_publication_url": null
+  },
+  {
+    "path": "articles/ascend-c-greater-int32-exact.md",
+    "title": "Ascend C Greater 实现：用 Min/Max 与 EQ 完成精确的 INT32 比较",
+    "topic": "Greater",
+    "summary": "完整整数值域、双方向广播与结果编码",
+    "source_path": "articles/ascend-c-greater-int32-exact.md",
+    "source_sha256": "b8790b0b3006fa04c1f2f8b4788b722242590df9aa10e7eb0d7b61019c693392",
+    "content_sha256": "b8790b0b3006fa04c1f2f8b4788b722242590df9aa10e7eb0d7b61019c693392",
+    "imported_at": "2026-09-26",
+    "community_publication_url": null
+  },
+  {
+    "path": "articles/ascend-c-gather-repeat-boundary.md",
+    "title": "Ascend C 边界排错：扩大分块后的一次 Gather 重复次数截断",
+    "topic": "Greater",
+    "summary": "repeat 缩窄、错误复现与分段修复",
+    "source_path": "articles/ascend-c-gather-repeat-boundary.md",
+    "source_sha256": "a28ffe48efb4a6ad055eedf850a70f923c09951a242d7a224cbc1792c8d88032",
+    "content_sha256": "a28ffe48efb4a6ad055eedf850a70f923c09951a242d7a224cbc1792c8d88032",
+    "imported_at": "2026-09-26",
+    "community_publication_url": null
+  },
+  {
+    "path": "articles/ascend-c-profiler-pipeline-analysis.md",
+    "title": "Ascend C 性能分析：Vector 时间降了，算子为什么没变快",
+    "topic": "IndexAdd",
+    "summary": "流水计数、关键依赖与完整耗时",
+    "source_path": "articles/ascend-c-profiler-pipeline-analysis.md",
+    "source_sha256": "fb45a80e2b78b1ca100d80c0628c5b46669ac7996bf235a5e9138d4428c2d36a",
+    "content_sha256": "fb45a80e2b78b1ca100d80c0628c5b46669ac7996bf235a5e9138d4428c2d36a",
+    "imported_at": "2026-09-26",
+    "community_publication_url": null
+  }
+]

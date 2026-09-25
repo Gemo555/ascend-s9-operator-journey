@@ -1,0 +1,213 @@
+[
+  {
+    "id": "concat-p06-official",
+    "package_id": "concat-p06",
+    "source_id": "concat-p06",
+    "kind": "historical_official_report",
+    "cases_us": [
+      "6.44",
+      "26.14",
+      "16.03",
+      "80.90",
+      "193.79"
+    ],
+    "total_us": "323.30",
+    "note": "历史文档记载的官方回包；不是最终榜单包映射。"
+  },
+  {
+    "id": "concat-p07-original",
+    "package_id": "concat-p07",
+    "source_id": "concat-p07-result",
+    "kind": "local_device_history",
+    "cases_us": [
+      "3.65",
+      "23.68",
+      "14.6805",
+      "81.1615",
+      "184.0135"
+    ],
+    "total_us": "307.1855",
+    "note": "用户确认的当前最好候选；后续额外边界检查存在失败。",
+    "raw_csv_sha256": "3f59a4c67586e26a34cb8042dda984b205ca902c8558abab6062462a28794892"
+  },
+  {
+    "id": "concat-p06-a",
+    "package_id": "concat-p06",
+    "source_id": "concat-mte",
+    "kind": "local_device_history",
+    "cases_us": [
+      "6.68",
+      "26.92",
+      "15.46",
+      "82.261",
+      "199.734"
+    ],
+    "total_us": "331.055",
+    "note": "2026-09-14 同卡 ABBA；P07 额外边界失败未定位。"
+  },
+  {
+    "id": "concat-p07-a",
+    "package_id": "concat-p07",
+    "source_id": "concat-mte",
+    "kind": "local_device_history",
+    "cases_us": [
+      "3.71",
+      "24.31",
+      "14.96",
+      "83.0515",
+      "186.194"
+    ],
+    "total_us": "312.2255",
+    "note": "2026-09-14 同卡 ABBA；P07 额外边界失败未定位。"
+  },
+  {
+    "id": "concat-p07-b",
+    "package_id": "concat-p07",
+    "source_id": "concat-mte",
+    "kind": "local_device_history",
+    "cases_us": [
+      "3.73",
+      "22.7305",
+      "13.68",
+      "78.5515",
+      "188.5535"
+    ],
+    "total_us": "307.2455",
+    "note": "2026-09-14 同卡 ABBA；P07 额外边界失败未定位。"
+  },
+  {
+    "id": "concat-p06-b",
+    "package_id": "concat-p06",
+    "source_id": "concat-mte",
+    "kind": "local_device_history",
+    "cases_us": [
+      "6.55",
+      "27.171",
+      "15.58",
+      "79.9215",
+      "196.694"
+    ],
+    "total_us": "325.9165",
+    "note": "2026-09-14 同卡 ABBA；P07 额外边界失败未定位。"
+  },
+  {
+    "id": "indexadd-p135-a",
+    "package_id": null,
+    "source_id": "indexadd-p151",
+    "kind": "local_device_history",
+    "cases_us": [
+      "5.5205",
+      "66.561",
+      "31.081",
+      "398.718",
+      "166.504"
+    ],
+    "total_us": "668.3845",
+    "note": "2026-09-14 同场完整对照；没有拼接单例最小值。"
+  },
+  {
+    "id": "indexadd-p151-a",
+    "package_id": "indexadd-p151",
+    "source_id": "indexadd-p151",
+    "kind": "local_device_history",
+    "cases_us": [
+      "5.59",
+      "66.971999",
+      "32.201",
+      "397.0975",
+      "149.023"
+    ],
+    "total_us": "650.883499",
+    "note": "2026-09-14 同场完整对照；没有拼接单例最小值。"
+  },
+  {
+    "id": "indexadd-p135-b",
+    "package_id": null,
+    "source_id": "indexadd-p151",
+    "kind": "local_device_history",
+    "cases_us": [
+      "5.74",
+      "66.730999",
+      "32.2405",
+      "396.868",
+      "157.143"
+    ],
+    "total_us": "658.722499",
+    "note": "2026-09-14 同场完整对照；没有拼接单例最小值。"
+  },
+  {
+    "id": "indexadd-p151-b",
+    "package_id": "indexadd-p151",
+    "source_id": "indexadd-p151",
+    "kind": "local_device_history",
+    "cases_us": [
+      "5.55",
+      "65.9815",
+      "31.6705",
+      "396.6375",
+      "149.203"
+    ],
+    "total_us": "649.0425",
+    "note": "2026-09-14 同场完整对照；没有拼接单例最小值。"
+  },
+  {
+    "id": "transpose-p66",
+    "package_id": "transpose-p66",
+    "source_id": "transpose-p66",
+    "kind": "local_device_history",
+    "cases_us": [
+      "5.19",
+      "12.24",
+      "126.6",
+      "113.24",
+      "646.37"
+    ],
+    "total_us": "903.64",
+    "note": "2026-09-13 单次完整默认包；未宣称官方成绩或稳定先后。"
+  },
+  {
+    "id": "transpose-p71",
+    "package_id": "transpose-p71",
+    "source_id": "transpose-p71",
+    "kind": "local_device_history",
+    "cases_us": [
+      "5.18",
+      "12.05",
+      "121.7",
+      "116.17",
+      "643.16"
+    ],
+    "total_us": "898.26",
+    "note": "2026-09-13 单次完整默认包；未宣称官方成绩或稳定先后。"
+  },
+  {
+    "id": "greater-p33",
+    "package_id": "greater-p33",
+    "source_id": "greater-status",
+    "kind": "local_device_history",
+    "cases_us": [
+      "1.540",
+      "274.266",
+      "33.561",
+      "53.271",
+      "126.702"
+    ],
+    "total_us": "489.340",
+    "note": "完整严格正确性；与 P46 不属于同一场成对测量。"
+  },
+  {
+    "id": "greater-p46",
+    "package_id": "greater-p46",
+    "source_id": "greater-status",
+    "kind": "local_device_history",
+    "cases_us": [
+      "1.54",
+      "275.8255",
+      "31.3005",
+      "53.531",
+      "126.632"
+    ],
+    "total_us": "488.8290",
+    "note": "完整严格正确性；与 P33 不属于同一场成对测量。"
+  }
+]
