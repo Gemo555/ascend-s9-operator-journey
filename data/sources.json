@@ -88,5 +88,45 @@
     "reviewed_at": "2026-09-26",
     "description": "P46 先进行 16 位原始数据广播、再转换的源码依据。",
     "availability": "original_retained_in_development_workspace"
+  },
+  {
+    "id": "squaresum-r120-host",
+    "package_filename": "SquareSumV1_OPT_R120.zip",
+    "member": "SquareSumV1_zip/op_host/square_sum_v1.cpp",
+    "sha256": "74039b9a0bbc2926ecdae491e7327c1c5ab8b2674e5ad59e245b1a56c8ef5d44",
+    "bytes": 15711,
+    "reviewed_at": "2026-09-26",
+    "description": "团队提供 R120 包内源码；用于设计说明，未新增设备或性能验证。",
+    "availability": "original_retained_in_user_supplied_package"
+  },
+  {
+    "id": "squaresum-r120-pairs",
+    "package_filename": "SquareSumV1_OPT_R120.zip",
+    "member": "SquareSumV1_zip/op_kernel/layer_pairs.h",
+    "sha256": "cb318db7748ae618fb050315cfdb9f306f7027808e5eb57340171da68895c2d0",
+    "bytes": 9494,
+    "reviewed_at": "2026-09-26",
+    "description": "团队提供 R120 包内源码；用于设计说明，未新增设备或性能验证。",
+    "availability": "original_retained_in_user_supplied_package"
+  },
+  {
+    "id": "squaresum-r120-bf16",
+    "package_filename": "SquareSumV1_OPT_R120.zip",
+    "member": "SquareSumV1_zip/op_kernel/cols_raw_bf16.h",
+    "sha256": "ce470bc392a0ac8a08abb43e66d5b6e9a5cc3c35f5a6b155dc2bbd4d9dee10d6",
+    "bytes": 12033,
+    "reviewed_at": "2026-09-26",
+    "description": "团队提供 R120 包内源码；用于设计说明，未新增设备或性能验证。",
+    "availability": "original_retained_in_user_supplied_package"
+  },
+  {
+    "id": "squaresum-r120-f32",
+    "package_filename": "SquareSumV1_OPT_R120.zip",
+    "member": "SquareSumV1_zip/op_kernel/cols_raw_f32.h",
+    "sha256": "a32f92ef80954825f537570dd09bb145ac9c81d8d45038f8544621402d3f4936",
+    "bytes": 8230,
+    "reviewed_at": "2026-09-26",
+    "description": "团队提供 R120 包内源码；用于设计说明，未新增设备或性能验证。",
+    "availability": "original_retained_in_user_supplied_package"
   }
 ]

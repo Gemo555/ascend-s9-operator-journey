@@ -236,5 +236,38 @@
       "Greater_zip/custom_opp_euleros_aarch64.run": "5acc4400ff2a4edc454f749bc2a9de548159fd27cc66aeaf1d9d0735b7873cdf"
     },
     "availability": "package_retained_in_development_workspace"
+  },
+  {
+    "id": "squaresumv1-r120",
+    "topic": "SquareSumV1",
+    "filename": "SquareSumV1_OPT_R120.zip",
+    "zip_sha256": "de55989a812251b5328a3fbd059b2c5b4174c8826295fa8fb096d006cd9c0f63",
+    "bytes": 698091,
+    "status": "team_selected_best_package",
+    "selection_source": "Team supplied package and identified it as the best on 2026-09-26.",
+    "final_leaderboard_mapping": "unconfirmed",
+    "evidence_source": "squaresum-r120-host",
+    "identity_checked_at": "2026-09-26",
+    "source_members_sha256": {
+      "SquareSumV1_zip/op_host/diag_probe.h": "a518bc6ddd1aeeaffa4a83aa74d2e11f9b2799e6b5bc02cb5265cab9f50196c6",
+      "SquareSumV1_zip/op_host/squaresum_plan.h": "e6a4b1d7ecf0f8af4af82c3b4dac84100b122814aab789a87646f9deba502273",
+      "SquareSumV1_zip/op_host/square_sum_v1.cpp": "74039b9a0bbc2926ecdae491e7327c1c5ab8b2674e5ad59e245b1a56c8ef5d44",
+      "SquareSumV1_zip/op_host/CMakeLists.txt": "e1fa0b5daafdc881301a3756db6a76cddedbf15b1a3b62e29f03eb67f3cac4da",
+      "SquareSumV1_zip/op_host/square_sum_v1_tiling.h": "852f12a07257b16e1c49f569b7301694d81a91ac06cc1acb7e93a4dc6a3ecab1",
+      "SquareSumV1_zip/op_host/s9_variant.h": "ecf0de695cb61ca099aabadd0531a50a14fd927e6256df34ad44e055d7a9ac83",
+      "SquareSumV1_zip/op_host/square_sum_v1_plan.h": "aad9615bb82ff3cf252098ad22bca0c55e71d429b3ade413664765e50e909017",
+      "SquareSumV1_zip/op_host/api/squaresum_api.cpp": "6b542c49fc1e31d145ff9943db6055e505f361a74298b4aa45e5f85a06e9c5c2",
+      "SquareSumV1_zip/op_kernel/layer_pairs.h": "cb318db7748ae618fb050315cfdb9f306f7027808e5eb57340171da68895c2d0",
+      "SquareSumV1_zip/op_kernel/square_sum_v1.cpp": "93272e1d516509fef2bd7bc2391aba41e2c36eeb048c49acada8a3f6475be8da",
+      "SquareSumV1_zip/op_kernel/CMakeLists.txt": "4e51b440e610d13fe47c8afa215e3e948687ad5e2ae3e6464c81800a428ba9a9",
+      "SquareSumV1_zip/op_kernel/cols_raw_f32.h": "a32f92ef80954825f537570dd09bb145ac9c81d8d45038f8544621402d3f4936",
+      "SquareSumV1_zip/op_kernel/cols_raw_bf16.h": "ce470bc392a0ac8a08abb43e66d5b6e9a5cc3c35f5a6b155dc2bbd4d9dee10d6"
+    },
+    "installer_members_sha256": {
+      "SquareSumV1_zip/custom_opp_euleros_aarch64.run": "9736ebb25c2a482d036e7977dd6caa46f01bc7a2f08ae773cbbc5cc9cd3bf3d9"
+    },
+    "availability": "package_retained_in_user_supplied_location",
+    "local_total_us": null,
+    "validation_scope": "Source reading only in this repository; no new device test or timing."
   }
 ]

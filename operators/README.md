@@ -8,7 +8,7 @@
 | [Greater](greater/README.md) | 精确 INT32 比较、P33 紧凑存储及 P46 BF16 原始数据广播 | 有完整本地验证；最终上榜包待确认 |
 | [IndexAdd](indexadd/README.md) | P151 八行转置、来源计划与跨阶段 UB 复用 | 有完整本地验证；最终上榜包待确认 |
 | [Transpose](transpose/README.md) | P71 / P66 两个接近的版本，分块临时布局与长 K 分核 | 两包均可定位；最终上榜包待确认 |
-| [SquareSumV1](squaresumv1/README.md) | 待取得团队实现后分析 | 当前只有榜单成绩及公共赛题材料 |
+| [SquareSumV1](squaresumv1/README.md) | 团队指定最佳 R120：FP16 分层成对归约、BF16/FP32 连续列流 | 已取得 ZIP 并完成源码设计整理；逐例回执待补 |
 
 ## 为什么保留两个接近的版本
 

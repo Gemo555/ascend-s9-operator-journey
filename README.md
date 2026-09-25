@@ -32,9 +32,10 @@
 | 重复索引如何保持数值行为 | IndexAdd 保留更新顺序与 BF16 舍入节点；FP32 八行转置结合缓冲生命周期复用 | [IndexAdd 方案](operators/indexadd/README.md) |
 | 转置的输入与输出连续方向不同 | 使用分块 GM workspace 组织连续输出，并实测核数、尾部压紧与缓存策略 | [Transpose 双方案](operators/transpose/README.md) |
 | INT32 大小比较如何保持精确 | Greater 用 Min/Max 与 EQ 组合实现，比较完成后复用存储编码布尔结果 | [Greater 方案](operators/greater/README.md) |
+| 多维归约如何连续读取 | SquareSumV1 R120 按保留/归约维分类，用成对压缩、连续列流和分层合并组织不同 dtype | [SquareSumV1 方案](operators/squaresumv1/README.md) |
 | 如何判断一次优化是否有效 | 保留同场完整运行、失败候选和计时口径，区分 CPU 模型、真卡历史实验与榜单成绩 | [性能分析文章](articles/ascend-c-profiler-pipeline-analysis.md) |
 
-最终上榜 ZIP 与榜单的对应关系正在补齐。当前方案页明确标出历史官方包、本地验证版本和未解决的问题；SquareSumV1 的团队实现待补。源码与安装包身份索引见 [包清单](data/packages.json)。
+五题方案均已有内容，其中 Concat P07 为团队确认的当前最好本地候选，SquareSumV1 R120 为团队指定的最佳展示包。最终上榜 ZIP 与榜单的对应关系继续补齐；当前方案页分别注明版本来源和已有结果。源码与安装包身份索引见 [包清单](data/packages.json)。
 
 ## 技术文章
 
