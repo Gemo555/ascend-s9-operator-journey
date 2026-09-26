@@ -91,6 +91,19 @@ def render(summary, doc, topic=None):
                         f"{topic['time_us']} μs。**")
         return (f"{headline}\n\n时间：{stamp}。"
                 f"[原始快照]({source})；最终验收结果与对应提交包待确认。")
+    if doc == "README.md":
+        han_rank = {1: "一", 2: "二", 3: "三", 4: "四", 5: "五",
+                    6: "六", 7: "七", 8: "八", 9: "九", 10: "十"}
+        rank = summary["aggregate_rank"]
+        rank_label = han_rank.get(rank, str(rank))
+        lines = [f"**总积分位列{summary['registered_teams']}支报名队的第{rank_label}名·**"
+                 f"{'五题均位列前十' if summary['all_topics_top10'] else '详见各题成绩'}", "",
+                 "| 赛题 | 耗时（μs） | 单题名次 |", "|---|---:|---:|"]
+        for t in summary["topics"]:
+            path = f"topics/README.md#{SLUGS[t['name']]}"
+            lines.append(f"| [{t['name']}]({path}) | {t['time_us'] or '未知'} | "
+                         f"{t['rank'] or '未收录'} |")
+        return "\n".join(lines)
     rank = summary["aggregate_rank"]
     rank_text = ("并列" if summary["tied"] else "") + f"第 {rank} 名" if rank else "未获积分"
     top_text = " · 五题全部进入前十" if summary["all_topics_top10"] else ""
