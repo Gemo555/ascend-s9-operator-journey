@@ -1,5 +1,7 @@
 # Ascend S9 · 本质嘉豪
 
+本仓库记录「本质嘉豪」参加昇腾 AI 创新大赛——算子挑战赛 S9 赛季的成果：比赛表现、代表方案的设计取舍，以及从开发过程中的产出等。主要开发环境为 **Ascend 910B4 / Ascend C / CANN 8.5.0**；具体内容详见对应文件
+
 ## 团队成员
 
 [Gemo555](https://github.com/Gemo555) · [ConstantGA](https://github.com/ConstantGA)
