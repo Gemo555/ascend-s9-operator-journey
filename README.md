@@ -2,7 +2,7 @@
 
 ## 团队介绍
 
-[Gemo555](https://github.com/Gemo555) · 同学的 GitHub 主页链接待补
+[Gemo555](https://github.com/Gemo555) · [ConstantGA](https://github.com/ConstantGA)
 
 ## 比赛成绩
 
