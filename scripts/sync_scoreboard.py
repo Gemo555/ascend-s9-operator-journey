@@ -96,7 +96,7 @@ def render(summary, doc, topic=None):
                     6: "六", 7: "七", 8: "八", 9: "九", 10: "十"}
         rank = summary["aggregate_rank"]
         rank_label = han_rank.get(rank, str(rank))
-        lines = [f"**总积分位列{summary['registered_teams']}支报名队的第{rank_label}名·**"
+        lines = [f"<strong>总积分位列{summary['registered_teams']}支报名队的第{rank_label}名·</strong>"
                  f"{'五题均位列前十' if summary['all_topics_top10'] else '详见各题成绩'}", "",
                  "| 赛题 | 耗时（μs） | 单题名次 |", "|---|---:|---:|"]
         for t in summary["topics"]:
