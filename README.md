@@ -6,7 +6,7 @@
 
 [Gemo555](https://github.com/Gemo555) · [ConstantGA](https://github.com/ConstantGA)
 
-来自华中科技大学电子信息与通信学院
+2025级本科生，来自华中科技大学电子信息与通信学院
 
 ## 比赛成绩
 
