@@ -4,6 +4,8 @@
 
 [Gemo555](https://github.com/Gemo555) · [ConstantGA](https://github.com/ConstantGA)
 
+我们是华中科技大学 2025 级本科生。
+
 ## 比赛成绩
 
 <!-- scoreboard:start -->
