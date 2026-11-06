@@ -15,10 +15,10 @@
 
 | 赛题 | 耗时（μs） | 单题名次 |
 |---|---:|---:|
-| [Concat](topics/README.md#concat) | 307.27 | 10 |
-| [Greater](topics/README.md#greater) | 482.57 | 7 |
-| [IndexAdd](topics/README.md#indexadd) | 631.569999 | 10 |
-| [Transpose](topics/README.md#transpose) | 903.47 | 6 |
+| [Concat](topics/README.md#concat) | 307.27 | 6 |
+| [Greater](topics/README.md#greater) | 482.57 | 6 |
+| [IndexAdd](topics/README.md#indexadd) | 631.569999 | 6 |
+| [Transpose](topics/README.md#transpose) | 903.47 | 3 |
 | [SquareSumV1](topics/README.md#squaresumv1) | 1398.168 | 7 |
 <!-- scoreboard:end -->
 
