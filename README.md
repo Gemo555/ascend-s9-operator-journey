@@ -22,6 +22,9 @@
 | [SquareSumV1](topics/README.md#squaresumv1) | 1398.168 | 7 |
 <!-- scoreboard:end -->
 
+<img width="614" height="364" alt="image" src="https://github.com/user-attachments/assets/08dc63a5-2f7c-455e-b509-82a0a08b5a19" />
+
+
 ## 更多内容
 
 [赛题介绍](topics/README.md) · [赛题方案](operators/README.md) · [技术文章](articles/README.md) · [成绩与数据说明](docs/results.md)
