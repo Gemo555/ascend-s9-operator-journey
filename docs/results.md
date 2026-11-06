@@ -11,10 +11,10 @@
 
 | 赛题 | 单题名次 | 积分 | 耗时 / μs | 上榜条目 |
 |---|---:|---:|---:|---:|
-| [Concat](../operators/concat/README.md) | 6 | 10 | 307.27 | 272 |
-| [Greater](../operators/greater/README.md) | 6 | 40 | 482.57 | 274 |
-| [IndexAdd](../operators/indexadd/README.md) | 6 | 10 | 631.569999 | 182 |
-| [Transpose](../operators/transpose/README.md) | 3 | 50 | 903.47 | 174 |
+| [Concat](../operators/concat/README.md) | 6 | 50 | 307.27 | 272 |
+| [Greater](../operators/greater/README.md) | 6 | 50 | 482.57 | 274 |
+| [IndexAdd](../operators/indexadd/README.md) | 6 | 50 | 631.569999 | 182 |
+| [Transpose](../operators/transpose/README.md) | 3 | 80 | 903.47 | 174 |
 | [SquareSumV1](../operators/squaresumv1/README.md) | 7 | 40 | 1398.168 | 230 |
 
 来源：[历史快照](../data/leaderboards/20260915-131756+0800.json)；积分榜由五题积分汇总，同分并列。快照记载 902 支报名队伍、21 支获得积分的队伍。
